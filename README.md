@@ -16,11 +16,11 @@
 
 ## 📖 Índice
 
-- [Sobre o Jumas](#-sobre-o-jumas)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Rodar o Projeto](#-como-rodar-o-projeto)
-- [Scripts Disponíveis](#-scripts-disponíveis)
-- [Contribuindo](#-contribuindo)
+- [Sobre o Jumas](#sobre-o-jumas)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Rodar o Projeto](#como-rodar-o-projeto)
+- [Scripts Disponíveis](#scripts-disponíveis)
+- [Contribuindo](#contribuindo)
 
 ---
 
