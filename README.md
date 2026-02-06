@@ -50,7 +50,7 @@ Se você quiser configurar este projeto em sua máquina local para desenvolvimen
 
 ### Pré-requisitos
 
-- Node.js (recomendado versão 18 ou superior)
+- Node.js versão 18+
 - npm ou yarn
 
 ### Passos
@@ -96,9 +96,9 @@ Se você quiser configurar este projeto em sua máquina local para desenvolvimen
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
 1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/NovaFeature`)
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
+3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
+4. Push para a branch (`git push origin feature/nova-funcionalidade`)
 5. Abra um Pull Request
 
 ---
