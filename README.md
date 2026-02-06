@@ -50,7 +50,7 @@ Se você quiser configurar este projeto em sua máquina local para desenvolvimen
 
 ### Pré-requisitos
 
-- Node.js (versão 18 ou superior)
+- Node.js (recomendado versão 18 ou superior)
 - npm ou yarn
 
 ### Passos
