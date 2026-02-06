@@ -14,16 +14,6 @@
 
 ---
 
-## 📖 Índice
-
-- [Sobre o Jumas](#sobre-o-jumas)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Rodar o Projeto](#como-rodar-o-projeto)
-- [Scripts Disponíveis](#scripts-disponíveis)
-- [Contribuindo](#contribuindo)
-
----
-
 ## 🙏 Sobre o Jumas
 
 O **Jumas (Juventude Masculina de Schoenstatt)** é o ramo masculino do Movimento Apostólico de Schoenstatt. Tem por objetivo formar jovens líderes com uma fé sólida e que sejam agentes de transformação na sociedade e na Igreja. 
